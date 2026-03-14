@@ -1,8 +1,7 @@
 # Convolutional Deep Neural Network for Image Classification
 
 ## AIM
-
-To Develop a convolutional deep neural network for image classification and to verify the response for new images.
+  To Develop a convolutional deep neural network for image classification and to verify the response for new images.
 
 ## Problem Statement and Dataset
 
