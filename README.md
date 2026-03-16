@@ -25,8 +25,8 @@ Write your own steps
 
 ## PROGRAM
 
-### Name: MOHAMED RASHITH S
-### Register Number: 212223243003
+### Name: SAI SANJAY R
+### Register Number: 212223040178
 ```python
 class CNNClassifier(nn.Module):
     def __init__(self):
@@ -93,8 +93,8 @@ def train_model(model, train_loader, num_epochs=3):
 
             running_loss += loss.item()
 
-        print('Name: MOHAMED RASHITH S')
-        print('Register Number: 212223243003')
+        print('Name: SAI SANJAY R')
+        print('Register Number: 212223040178')
         print(f'Epoch [{epoch+1}/{num_epochs}], Loss: {running_loss/len(train_loader):.4f}')
 ```
 
